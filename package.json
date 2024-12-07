@@ -1,0 +1,19 @@
+{
+  "name": "si_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "dependencies": {
+    "@azure-rest/ai-document-intelligence": "^1.0.0-beta.3",
+    "@azure/core-auth": "^1.9.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
