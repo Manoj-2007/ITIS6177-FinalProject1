@@ -59,6 +59,8 @@ Create a `.env` file in the root directory with the following variables:
 
 Let's get started with Simple-Text-Extraction!
 
+[Swagger UI Azure STS](http://134.122.5.204:3000/api-docs) documentation has been set up for this project and can be used to explore the API endpoints.
+
 ###Steps
 
 1.Open the endpoint and check it is working or not.
@@ -87,6 +89,8 @@ Let's get started with Simple-Text-Extraction!
 5. Click Send and wait for the response.
 
 6. You'll receive a Text from the png.
+
+
 
 
 ## Sample Response
